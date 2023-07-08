@@ -22,7 +22,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(current_dir)
 siteURL  = "https://www.outdoorsy.com/"
 xl_path  = "Output.xlsx"
-_author  = "Kowshika @ https://kowshika-n.github.io/"
+_author  = "Michael Edwards @ https://github.com/tynevosa"
 _version = 0.1
 
 os.environ['WDM_LOG_LEVEL'] = '0'

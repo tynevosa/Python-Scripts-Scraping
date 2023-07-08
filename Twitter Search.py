@@ -9,7 +9,7 @@ from twython import Twython
 from twython import TwythonError
 
 _version = '0.3'
-_author = 'Kowshika @ https://kowshika-n.github.io'
+_author = "Michael Edwards @ https://github.com/tynevosa"
 
 # Get from twitter dev.
 APP_KEY = 'APP_KEY'
